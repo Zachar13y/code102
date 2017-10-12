@@ -1,1 +1,9 @@
+# TIL
 
+- operators
+    -math
+- \ +
+- \ -
+- \ *
+-
+ git 
